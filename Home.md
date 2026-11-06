@@ -1,27 +1,26 @@
 <div align="center">
 
-# 🛒 LSKE Shop Launcher & Tools
+# L.S.K.E SHOP LAUNCHER
 
-**The fastest way to reach and interact with [lske.shop](https://lske.shop) from any environment.**
+**Quick-launch scripts and commands for [lske.shop](https://lske.shop).**
 
 [![Website](https://img.shields.io/badge/Website-lske.shop-00c853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lske.shop)
-[![Python](https://img.shields.io/badge/Python-Ready-3776AB?style=for-the-badge&logo=python&logoColor=white)](#-python-tools)
-[![Terminal](https://img.shields.io/badge/Terminal-Commands-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)](#-terminal-commands)
+[![Terminal](https://img.shields.io/badge/Terminal-Commands-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)](#terminal-commands)
 
 </div>
 
 <br>
 
-> ⚡ **Launch your favorite shop or download assets directly from your command line, script, or desktop with zero external dependencies.**
+A collection of lightweight scripts and commands to open the L.S.K.E Shop directly from your terminal or via desktop shortcuts.
 
 ---
 
-## 🚀 Quick Start (Terminal)
+## Terminal Commands
 
-Click to expand the command for your specific operating system. Paste it directly into your terminal to open the site.
+Run the command corresponding to your operating system to open the site from your terminal.
 
 <details>
-<summary>🪟 <b>Windows (CMD / PowerShell)</b></summary>
+<summary><b>Windows (CMD / PowerShell)</b></summary>
 <br>
 
 ```cmd
